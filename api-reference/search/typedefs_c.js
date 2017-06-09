@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['waypointfinishdata',['WayPointFinishData',['../DJI__Type_8h.html#ac958957ce6f8631be3fc337b0297269f',1,'DJI::onboardSDK']]],
-  ['waypointincidenttype',['WayPointIncidentType',['../DJI__Type_8h.html#a1a1747279a9b75fc89c0930fdc4c7130',1,'DJI::onboardSDK']]],
-  ['waypointinitdata',['WayPointInitData',['../DJI__Type_8h.html#a25838ff0bcdcd511b138675bbf5c164b',1,'DJI::onboardSDK']]],
-  ['waypointreacheddata',['WayPointReachedData',['../DJI__Type_8h.html#a41291eb0af76d7a185ce2ea98db09b9d',1,'DJI::onboardSDK']]]
+  ['rc',['RC',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#a2115e658a94a872327fa54ca268bb5f2',1,'DJI::OSDK::Telemetry']]],
+  ['relativeposition',['RelativePosition',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#a7d6224f8c2f0f9d992247ceddf888631',1,'DJI::OSDK::Telemetry']]],
+  ['rtk',['RTK',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#a7db716c64fc34cbc8efca4598fe2cc45',1,'DJI::OSDK::Telemetry']]]
 ];

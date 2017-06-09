@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vehiclecallback',['VehicleCallBack',['../dji__vehicle__callback_8hpp.html#a20a68c21abe449cf5f133f7d398055d3',1,'DJI::OSDK']]]
+  ['battery',['Battery',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#ab8627e735286fa269ccd69b4d6598945',1,'DJI::OSDK::Telemetry']]]
 ];

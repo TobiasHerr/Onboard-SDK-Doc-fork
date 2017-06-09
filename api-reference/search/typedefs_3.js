@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['dispatchinfo',['DispatchInfo',['../DJI__Type_8h.html#a0d9b6abfe9a2ef6177b87b071389306f',1,'DJI::onboardSDK']]]
+  ['dispatchinfo',['DispatchInfo',['../namespaceDJI_1_1OSDK.html#a6e1701dde6d5a10a3e0f39a2f9a4080e',1,'DJI::OSDK']]],
+  ['droneversion',['DroneVersion',['../classDJI_1_1OSDK_1_1ACK.html#a523b5ed7436a3367a7a7dde580555d62',1,'DJI::OSDK::ACK']]]
 ];

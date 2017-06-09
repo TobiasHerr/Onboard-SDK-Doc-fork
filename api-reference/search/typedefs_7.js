@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['magdata',['MagData',['../DJI__Type_8h.html#a1a43778cf092a88a6c2b938e651c1b62',1,'DJI::onboardSDK']]],
-  ['magnetdata',['MagnetData',['../DJI__Type_8h.html#aea6e13bf4b08fb7178bc0eb258fd0e4e',1,'DJI::onboardSDK']]],
-  ['measure',['Measure',['../namespaceDJI.html#a33a0392b19136429c35297ee20819e73',1,'DJI']]],
-  ['measurement',['Measurement',['../namespaceDJI.html#ab8295509ea10f45b68c55ae54614851f',1,'DJI']]],
-  ['mmu_5ftab',['MMU_Tab',['../DJI__Type_8h.html#a112002746462d1469ec7dbc562da0418',1,'DJI::onboardSDK']]]
+  ['hardsyncdata',['HardSyncData',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#a3a7a0e798f8be5e0c208338672c5b26e',1,'DJI::OSDK::Telemetry']]],
+  ['header',['Header',['../namespaceDJI_1_1OSDK.html#ad668392b507a4a224a10c3ca219b462a',1,'DJI::OSDK']]],
+  ['hotpoint',['HotPoint',['../classDJI_1_1OSDK_1_1ErrorCode_1_1MissionACK.html#aa779f2f3b02b1610c5c314615c3dce09',1,'DJI::OSDK::ErrorCode::MissionACK']]],
+  ['hotpointread',['HotPointRead',['../classDJI_1_1OSDK_1_1ACK.html#aa5ce5bcddd23cc9f338b5f6a5b6639b4',1,'DJI::OSDK::ACK']]],
+  ['hotpointsettings',['HotPointSettings',['../namespaceDJI_1_1OSDK.html#ae77ba11af1f90df05889c12732c74317',1,'DJI::OSDK']]],
+  ['hotpointstart',['HotPointStart',['../classDJI_1_1OSDK_1_1ACK.html#ab4f73fdaa9df6637eb60f8834d0965c7',1,'DJI::OSDK::ACK']]]
 ];

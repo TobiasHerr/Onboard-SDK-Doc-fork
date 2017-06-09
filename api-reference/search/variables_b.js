@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['rc',['rc',['../structBroadcastData.html#a62662f40159cb25038018fefd7c676cf',1,'BroadcastData']]],
-  ['reversed0',['reversed0',['../structHeader.html#a7087c7a2831a8cecec8cd499719667d4',1,'Header']]],
-  ['reversed1',['reversed1',['../structHeader.html#acb82d349d84f682be7b3537a2a6c934b',1,'Header']]],
-  ['roll',['roll',['../structVirtualRCData.html#abd9b9ef60fa98cc9c1ee2a6aeaf3e649',1,'VirtualRCData']]]
+  ['nbuserdata',['nbUserData',['../classDJI_1_1OSDK_1_1Vehicle.html#acf96d6f23b118a63cb0153a5921c654c',1,'DJI::OSDK::Vehicle']]],
+  ['nsv',['NSV',['../structDJI_1_1OSDK_1_1Telemetry_1_1GPSDetail.html#a3e2589d54491aee785366d00cf58f860',1,'DJI::OSDK::Telemetry::GPSDetail']]]
 ];

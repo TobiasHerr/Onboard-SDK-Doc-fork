@@ -5,6 +5,8 @@ var searchData=
   ['getbatteryinfo',['getBatteryInfo',['../classDJI_1_1OSDK_1_1DataBroadcast.html#a4cf8001310d6e39bc515e9a1c2f8436a',1,'DJI::OSDK::DataBroadcast']]],
   ['getdata',['getData',['../classDJI_1_1OSDK_1_1HotpointMission.html#aa4c822ea6ceb0d71ed4f32572b361562',1,'DJI::OSDK::HotpointMission']]],
   ['getdroneversion',['getDroneVersion',['../classDJI_1_1OSDK_1_1Vehicle.html#a257f78845ca1dc25c0ed66f9a6499f52',1,'DJI::OSDK::Vehicle::getDroneVersion(int timeout)'],['../classDJI_1_1OSDK_1_1Vehicle.html#a4396e14090a4c0fd5b7f996c10025203',1,'DJI::OSDK::Vehicle::getDroneVersion(VehicleCallBack callback=0, UserData userData=0)']]],
+  ['geterror',['getError',['../classDJI_1_1OSDK_1_1ACK.html#aa6a80877d41e0bffd3e44de1af585e09',1,'DJI::OSDK::ACK']]],
+  ['geterrorcodemessage',['getErrorCodeMessage',['../classDJI_1_1OSDK_1_1ACK.html#a140b7c908f55e5f6b7b9f32056828af1',1,'DJI::OSDK::ACK']]],
   ['getgimbal',['getGimbal',['../classDJI_1_1OSDK_1_1DataBroadcast.html#a5d7bcde01f0290ebb69e4f1f2a861adf',1,'DJI::OSDK::DataBroadcast']]],
   ['getglobalposition',['getGlobalPosition',['../classDJI_1_1OSDK_1_1DataBroadcast.html#a2eb66a61c33a87ab62892ea3780e5b37',1,'DJI::OSDK::DataBroadcast']]],
   ['getgpsinfo',['getGPSInfo',['../classDJI_1_1OSDK_1_1DataBroadcast.html#a31f8ced40b7c35c97a7818e96a1017ad',1,'DJI::OSDK::DataBroadcast']]],

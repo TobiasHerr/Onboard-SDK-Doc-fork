@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['sdkfilter',['SDKFilter',['../DJI__Type_8h.html#aac87b726305048671bd3c874dfca5e7e',1,'DJI::onboardSDK']]],
-  ['spacevector',['SpaceVector',['../namespaceDJI.html#ad1dc49f750d830612593ed9253e4502a',1,'DJI']]]
+  ['mag',['Mag',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#acca53ea861f162aadc2753ff4c44eb70',1,'DJI::OSDK::Telemetry']]]
 ];

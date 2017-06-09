@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['hardwaresync',['HardwareSync',['../classDJI_1_1OSDK_1_1HardwareSync.html',1,'DJI::OSDK']]],
-  ['header',['Header',['../structHeader.html',1,'']]],
-  ['hotpointmission',['HotpointMission',['../classDJI_1_1OSDK_1_1HotpointMission.html',1,'DJI::OSDK']]],
-  ['hotpointsettings',['HotPointSettings',['../structHotPointSettings.html',1,'']]]
+  ['databroadcast',['DataBroadcast',['../classDJI_1_1OSDK_1_1DataBroadcast.html',1,'DJI::OSDK']]],
+  ['datasubscription',['DataSubscription',['../classDJI_1_1OSDK_1_1DataSubscription.html',1,'DJI::OSDK']]],
+  ['dispatchinfo',['DispatchInfo',['../structDJI_1_1OSDK_1_1DispatchInfo.html',1,'DJI::OSDK']]],
+  ['droneversion',['DroneVersion',['../structDJI_1_1OSDK_1_1ACK_1_1DroneVersion.html',1,'DJI::OSDK::ACK']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['radiodata',['RadioData',['../DJI__Type_8h.html#a7036f4c0336e21dfd1e56471fd311354',1,'DJI::onboardSDK']]],
-  ['rcdata',['RCData',['../DJI__Type_8h.html#a5643d95a442bf936449b7c191e95c7cf',1,'DJI::onboardSDK']]],
-  ['rtkdata',['RTKData',['../DJI__Type_8h.html#ab1bfe50ba801d7466eb0f5c3c09a5474',1,'DJI::onboardSDK']]]
+  ['init',['init',['../classDJI_1_1OSDK_1_1ErrorCode_1_1MFIOACK.html#a5fcda9c3aa162da2a6a89953c3b3b177',1,'DJI::OSDK::ErrorCode::MFIOACK']]],
+  ['ioc',['IOC',['../classDJI_1_1OSDK_1_1ErrorCode_1_1MissionACK.html#a2cc971078ed7056ee8ec1eaf69f7cc26',1,'DJI::OSDK::ErrorCode::MissionACK']]]
 ];

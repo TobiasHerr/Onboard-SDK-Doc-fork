@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['encrypt',['encrypt',['../dji__type_8hpp.html#a4c51013df4e24ad707a5c31b27483e9f',1,'DJI::OSDK']]],
-  ['extendedversionbase',['extendedVersionBase',['../dji__version_8hpp.html#a0d2ad9adfdf62e6d7123e2ef73cdff88',1,'DJI::OSDK']]]
+  ['back',['back',['../structDJI_1_1OSDK_1_1Telemetry_1_1RelativePosition.html#aaf102a1a7e31ca6f22f499994bed7278',1,'DJI::OSDK::Telemetry::RelativePosition']]],
+  ['backhealth',['backHealth',['../structDJI_1_1OSDK_1_1Telemetry_1_1RelativePosition.html#a04b5d3a13fa32423830bfaa30e3de995',1,'DJI::OSDK::Telemetry::RelativePosition']]]
 ];

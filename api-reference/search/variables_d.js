@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['velocityground',['velocityGround',['../structRTKData.html#a8c64b84ec05069f7a8fed187b609056c',1,'RTKData::velocityGround()'],['../structGPSData.html#a9ba3479002907952e0074393f66853fc',1,'GPSData::velocityGround()']]],
-  ['version_5fname',['version_name',['../structVersionData.html#a47f69033ccee97765b271be73766a69b',1,'VersionData']]]
+  ['q',['q',['../structDJI_1_1OSDK_1_1Telemetry_1_1HardSyncData.html#a214367efdf2d104cb0da1b4eb0b16b39',1,'DJI::OSDK::Telemetry::HardSyncData']]],
+  ['q0',['q0',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#ac162760c862626a55697bdc1712829f0',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q1',['q1',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#acd6a582ae5be424483e01e327a5d4bcc',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q2',['q2',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#af75807b820d48b81d5692b646c449d97',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q3',['q3',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#a72f465c243d0c104ac3181e3baf5793d',1,'DJI::OSDK::Telemetry::Quaternion']]]
 ];

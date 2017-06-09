@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['has_5fmag',['HAS_MAG',['../classDJI_1_1OSDK_1_1DataBroadcast.html#a198083070852870f5fa700417442813ba021ab1efdd3effea1575ec89d3592791',1,'DJI::OSDK::DataBroadcast']]],
-  ['hotpoint_5fmission_5finvalid_5fradius',['HOTPOINT_MISSION_INVALID_RADIUS',['../dji__error_8hpp.html#a3bb862d2cb328c5163ed951e8f2f4100ae37748a860c7413d04dada6021044e4f',1,'DJI::OSDK']]]
+  ['vertical_5fposition',['VERTICAL_POSITION',['../classDJI_1_1OSDK_1_1Control.html#a91f574c79c663ed6c1e1514a6feb86b4ade41ada954074bde5034d0cbe8922df7',1,'DJI::OSDK::Control']]],
+  ['vertical_5fthrust',['VERTICAL_THRUST',['../classDJI_1_1OSDK_1_1Control.html#a91f574c79c663ed6c1e1514a6feb86b4a2890b616ae5f29b86190484418525af3',1,'DJI::OSDK::Control']]],
+  ['vertical_5fvelocity',['VERTICAL_VELOCITY',['../classDJI_1_1OSDK_1_1Control.html#a91f574c79c663ed6c1e1514a6feb86b4a0f2b954b107697ef0440b12fe8e2971d',1,'DJI::OSDK::Control']]]
 ];

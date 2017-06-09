@@ -1,11 +1,10 @@
 var searchData=
 [
-  ['readcallback',['readCallback',['../classDJI_1_1OSDK_1_1HotpointMission.html#a1e7ad1c4ea625b434c2b8e6af60b25fa',1,'DJI::OSDK::HotpointMission']]],
-  ['readdata',['readData',['../classDJI_1_1OSDK_1_1HotpointMission.html#ab9cc1476b13b764d34cfdae131f5d986',1,'DJI::OSDK::HotpointMission::readData(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1HotpointMission.html#a249cd60d0bc4ee0fc728b4e79b713406',1,'DJI::OSDK::HotpointMission::readData(int timer)']]],
-  ['readidlevelocity',['readIdleVelocity',['../classDJI_1_1OSDK_1_1WaypointMission.html#a881cc37e0cba5752a17565915b39c4c8',1,'DJI::OSDK::WaypointMission::readIdleVelocity(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1WaypointMission.html#a50bedf0aa7e02fca19b28354089d2520',1,'DJI::OSDK::WaypointMission::readIdleVelocity(int timeout)']]],
-  ['readinitdatacallback',['readInitDataCallback',['../classDJI_1_1OSDK_1_1WaypointMission.html#a93a8f2872a8fa6e18e5429baca9288ce',1,'DJI::OSDK::WaypointMission']]],
-  ['registeruserpackageunpackcallback',['registerUserPackageUnpackCallback',['../classDJI_1_1OSDK_1_1DataSubscription.html#a69bfb721713e8fdd164d1cf065d7a180',1,'DJI::OSDK::DataSubscription']]],
-  ['releasectrlauthority',['releaseCtrlAuthority',['../classDJI_1_1OSDK_1_1Vehicle.html#a42a4c6010022629269d936e03efc8b0c',1,'DJI::OSDK::Vehicle::releaseCtrlAuthority(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1Vehicle.html#a18ec8131563bb63a9dc5166a376a9aac',1,'DJI::OSDK::Vehicle::releaseCtrlAuthority(int timeout)']]],
-  ['resetyaw',['resetYaw',['../classDJI_1_1OSDK_1_1HotpointMission.html#a610bf9468597c4e2da987b9419715f76',1,'DJI::OSDK::HotpointMission::resetYaw(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1HotpointMission.html#ab04d05cdaea0ca14bf7ca6cfa14550da',1,'DJI::OSDK::HotpointMission::resetYaw(int timer)']]],
-  ['resume',['resume',['../classDJI_1_1OSDK_1_1HotpointMission.html#a1fc73550ee5bcc36ca1b42550a5a693b',1,'DJI::OSDK::HotpointMission::resume(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1HotpointMission.html#a5b472af0da9c1370dae19d3e586ef00a',1,'DJI::OSDK::HotpointMission::resume(int timer)'],['../classDJI_1_1OSDK_1_1WaypointMission.html#ab890e43b9ba152e5d48fc052c7676156',1,'DJI::OSDK::WaypointMission::resume(VehicleCallBack callback=0, UserData userData=0)'],['../classDJI_1_1OSDK_1_1WaypointMission.html#a9e27f4ffafb9f63222e8ef224e1c88a5',1,'DJI::OSDK::WaypointMission::resume(int timer)']]]
+  ['q',['q',['../structDJI_1_1OSDK_1_1Telemetry_1_1HardSyncData.html#a214367efdf2d104cb0da1b4eb0b16b39',1,'DJI::OSDK::Telemetry::HardSyncData']]],
+  ['q0',['q0',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#ac162760c862626a55697bdc1712829f0',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q1',['q1',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#acd6a582ae5be424483e01e327a5d4bcc',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q2',['q2',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#af75807b820d48b81d5692b646c449d97',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['q3',['q3',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html#a72f465c243d0c104ac3181e3baf5793d',1,'DJI::OSDK::Telemetry::Quaternion']]],
+  ['quaternion',['Quaternion',['../structDJI_1_1OSDK_1_1Telemetry_1_1Quaternion.html',1,'DJI::OSDK::Telemetry']]],
+  ['quaternion',['Quaternion',['../namespaceDJI_1_1OSDK_1_1Telemetry.html#a8f94bf8e3675ca6f4083534aadf7127a',1,'DJI::OSDK::Telemetry']]]
 ];

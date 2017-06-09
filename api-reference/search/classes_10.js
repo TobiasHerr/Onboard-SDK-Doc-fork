@@ -1,13 +1,9 @@
 var searchData=
 [
-  ['waypointdata',['WayPointData',['../structWayPointData.html',1,'']]],
-  ['waypointdataack',['WayPointDataACK',['../structWayPointDataACK.html',1,'']]],
-  ['waypointfinishdata',['WayPointFinishData',['../structWayPointFinishData.html',1,'']]],
-  ['waypointinitack',['WayPointInitACK',['../structWayPointInitACK.html',1,'']]],
-  ['waypointinitdata',['WayPointInitData',['../structWayPointInitData.html',1,'']]],
-  ['waypointreacheddata',['WayPointReachedData',['../structWayPointReachedData.html',1,'']]],
-  ['waypoints',['Waypoints',['../classDJI_1_1onboardSDK_1_1Waypoints.html',1,'DJI::onboardSDK']]],
-  ['waypointvelocityack',['WayPointVelocityACK',['../structWayPointVelocityACK.html',1,'']]],
-  ['wpdataack',['WPDataACK',['../structWPDataACK.html',1,'']]],
-  ['wpvelocityack',['WPVelocityACK',['../structWPVelocityACK.html',1,'']]]
+  ['vector3d',['Vector3d',['../structDJI_1_1OSDK_1_1Telemetry_1_1Vector3d.html',1,'DJI::OSDK::Telemetry']]],
+  ['vector3f',['Vector3f',['../structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html',1,'DJI::OSDK::Telemetry']]],
+  ['vehicle',['Vehicle',['../classDJI_1_1OSDK_1_1Vehicle.html',1,'DJI::OSDK']]],
+  ['vehiclecallbackhandler',['VehicleCallBackHandler',['../structDJI_1_1OSDK_1_1VehicleCallBackHandler.html',1,'DJI::OSDK']]],
+  ['velocity',['Velocity',['../structDJI_1_1OSDK_1_1Telemetry_1_1Velocity.html',1,'DJI::OSDK::Telemetry']]],
+  ['velocityinfo',['VelocityInfo',['../structDJI_1_1OSDK_1_1Telemetry_1_1VelocityInfo.html',1,'DJI::OSDK::Telemetry']]]
 ];

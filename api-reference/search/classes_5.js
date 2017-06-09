@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['mfio',['MFIO',['../classDJI_1_1OSDK_1_1MFIO.html',1,'DJI::OSDK']]],
-  ['missionbase',['MissionBase',['../classDJI_1_1OSDK_1_1MissionBase.html',1,'DJI::OSDK']]],
-  ['missionmanager',['MissionManager',['../classDJI_1_1OSDK_1_1MissionManager.html',1,'DJI::OSDK']]],
-  ['mobilecommunication',['MobileCommunication',['../classDJI_1_1OSDK_1_1MobileCommunication.html',1,'DJI::OSDK']]]
+  ['flightcommand',['FlightCommand',['../classDJI_1_1OSDK_1_1Control_1_1FlightCommand.html',1,'DJI::OSDK::Control']]],
+  ['flightstatus',['FlightStatus',['../structDJI_1_1OSDK_1_1ErrorCode_1_1CommonACK_1_1FlightStatus.html',1,'DJI::OSDK::ErrorCode::CommonACK']]],
+  ['follow',['Follow',['../structDJI_1_1OSDK_1_1ErrorCode_1_1MissionACK_1_1Follow.html',1,'DJI::OSDK::ErrorCode::MissionACK']]]
 ];

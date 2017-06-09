@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['gpsdata',['GPSData',['../DJI__Type_8h.html#ad6db26bb74dcd881f93c0031bae5e914',1,'DJI::onboardSDK']]],
-  ['gpspositiondata',['GPSPositionData',['../DJI__Type_8h.html#a4cf179a160f63b28aa3d622aa3f73fb2',1,'DJI::onboardSDK']]]
+  ['flightstatus',['FlightStatus',['../classDJI_1_1OSDK_1_1ErrorCode_1_1CommonACK.html#ac01ea36473365b483830b25dd3431c01',1,'DJI::OSDK::ErrorCode::CommonACK']]],
+  ['follow',['Follow',['../classDJI_1_1OSDK_1_1ErrorCode_1_1MissionACK.html#afca57636cf1ce7438468b0659dd97516',1,'DJI::OSDK::ErrorCode::MissionACK']]]
 ];
