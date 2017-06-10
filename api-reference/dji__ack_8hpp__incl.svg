@@ -30,7 +30,7 @@
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="dji__mission__type_8hpp_source.html" target="_top" xlink:title="dji_mission_type.hpp">
+<g id="a_node5"><a xlink:href="dji__mission__type_8hpp.html" target="_top" xlink:title="Mission related data struct for DJI OSDK library. ">
 <polygon fill="white" stroke="black" points="0,-168.5 0,-187.5 108,-187.5 108,-168.5 0,-168.5"/>
 <text text-anchor="middle" x="54" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">dji_mission_type.hpp</text>
 </a>

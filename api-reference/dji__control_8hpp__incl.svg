@@ -125,7 +125,7 @@ var sectionId = 'dynsection-0';
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="dji__mission__type_8hpp_source.html" target="_top" xlink:title="dji_mission_type.hpp">
+<g id="a_node6"><a xlink:href="dji__mission__type_8hpp.html" target="_top" xlink:title="Mission related data struct for DJI OSDK library. ">
 <polygon fill="white" stroke="black" points="192,-168.5 192,-187.5 300,-187.5 300,-168.5 192,-168.5"/>
 <text text-anchor="middle" x="246" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00">dji_mission_type.hpp</text>
 </a>

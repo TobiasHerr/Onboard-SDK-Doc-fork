@@ -8,7 +8,7 @@
         <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
         <meta name="generator" content="Doxygen 1.8.11"/>
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <title>Onboard SDK: DJI::OSDK::DataBroadcast Class Reference</title>
+        <title>DJI Onboard SDK: DJI::OSDK::DataBroadcast Class Reference</title>
         <!--<link href="tabs.css" rel="stylesheet" type="text/css"/>-->
         <script type="text/javascript" src="dynsections.js"></script>
         <link href="search/search.css" rel="stylesheet" type="text/css"/>
@@ -20,6 +20,7 @@
         <link href="doxygen.css" rel="stylesheet" type="text/css" />
         <link href="customdoxygen.css" rel="stylesheet" type="text/css"/>
         <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
         <link rel="stylesheet" href="bootstrap.min.css">
         <script src="bootstrap.min.js"></script>
         <script type="text/javascript" src="doxy-boot.js"></script>
@@ -29,7 +30,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <a href="#" class="navbar-left"><img src="dji_logo_gray_small.png" alt="DJI OSDK API Documentation" width="32px"/></a>
-                    <a class="navbar-brand" href="index.html">ONBOARD SDK 3.3 </a>
+                    <a class="navbar-brand" href="index.html">ONBOARD SDK 3.3</a>
                 </div>
             </div>
         </nav>
@@ -192,8 +193,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1f9dab34f42351ef42256f0662aa2fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3d354af7d736ae7949074459e37c2d58"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html">Telemetry::Vector3f</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDJI_1_1OSDK_1_1DataBroadcast.html#a3d354af7d736ae7949074459e37c2d58">getVelocity</a> () const </td></tr>
 <tr class="separator:a3d354af7d736ae7949074459e37c2d58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7dffb5573c9a6e1b4bcf3fde99fce65c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html">Telemetry::Vector3f</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDJI_1_1OSDK_1_1DataBroadcast.html#a7dffb5573c9a6e1b4bcf3fde99fce65c">getPalstance</a> () const </td></tr>
-<tr class="separator:a7dffb5573c9a6e1b4bcf3fde99fce65c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a747a031f44c4c19432f989b868856ad7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html">Telemetry::Vector3f</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDJI_1_1OSDK_1_1DataBroadcast.html#a747a031f44c4c19432f989b868856ad7">getAngularRate</a> () const </td></tr>
+<tr class="separator:a747a031f44c4c19432f989b868856ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e22e26862c3891d44998f6837a22ba9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1VelocityInfo.html">Telemetry::VelocityInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDJI_1_1OSDK_1_1DataBroadcast.html#a9e22e26862c3891d44998f6837a22ba9">getVelocityInfo</a> () const </td></tr>
 <tr class="separator:a9e22e26862c3891d44998f6837a22ba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2eb66a61c33a87ab62892ea3780e5b37"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1GlobalPosition.html">Telemetry::GlobalPosition</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDJI_1_1OSDK_1_1DataBroadcast.html#a2eb66a61c33a87ab62892ea3780e5b37">getGlobalPosition</a> () const </td></tr>
@@ -285,6 +286,23 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a747a031f44c4c19432f989b868856ad7"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html">Telemetry::Vector3f</a> DataBroadcast::getAngularRate </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Get Angular Rates from local cache </p><dl class="section note"><dt>Note</dt><dd>This getter function is only available with Broadcast, not with Subscribe telemetry</dd></dl>
+<p>The angular rates may be in body or ground frame, fused or raw, based on settings on <a class="el" href="namespaceDJI.html">DJI</a> Assistant 2's SDK page. </p><dl class="section return"><dt>Returns</dt><dd><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html" title="struct for multiple Topics ">Telemetry::Vector3f</a> data structure with the newest value </dd></dl>
+
+</div>
+</div>
 <a class="anchor" id="a4cf8001310d6e39bc515e9a1c2f8436a"></a>
 <div class="memitem">
 <div class="memproto">
@@ -367,23 +385,6 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Get Magnetometer data from local cache </p><dl class="section note"><dt>Note</dt><dd>This getter function is only available with Broadcast, not with Subscribe telemetry</dd></dl>
 <p>The returned value is calibrated mag data, 1000 &lt; |mag| &lt; 2000 for normal operation </p><dl class="section return"><dt>Returns</dt><dd><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Mag.html" title="struct for data broadcast, return magnetometer reading ">Telemetry::Mag</a> data structure with the newest value. </dd></dl>
-
-</div>
-</div>
-<a class="anchor" id="a7dffb5573c9a6e1b4bcf3fde99fce65c"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html">Telemetry::Vector3f</a> DataBroadcast::getPalstance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>Get Angular Rates from local cache </p><dl class="section note"><dt>Note</dt><dd>This getter function is only available with Broadcast, not with Subscribe telemetry</dd></dl>
-<p>The angular rates may be in body or ground frame, fused or raw, based on settings on <a class="el" href="namespaceDJI.html">DJI</a> Assistant 2's SDK page. </p><dl class="section return"><dt>Returns</dt><dd><a class="el" href="structDJI_1_1OSDK_1_1Telemetry_1_1Vector3f.html" title="struct for multiple Topics ">Telemetry::Vector3f</a> data structure with the newest value </dd></dl>
 
 </div>
 </div>

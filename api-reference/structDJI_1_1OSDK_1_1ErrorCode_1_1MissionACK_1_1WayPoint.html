@@ -8,7 +8,7 @@
         <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
         <meta name="generator" content="Doxygen 1.8.11"/>
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <title>Onboard SDK: DJI::OSDK::ErrorCode::MissionACK::WayPoint Struct Reference</title>
+        <title>DJI Onboard SDK: DJI::OSDK::ErrorCode::MissionACK::WayPoint Struct Reference</title>
         <!--<link href="tabs.css" rel="stylesheet" type="text/css"/>-->
         <script type="text/javascript" src="dynsections.js"></script>
         <link href="search/search.css" rel="stylesheet" type="text/css"/>
@@ -20,6 +20,7 @@
         <link href="doxygen.css" rel="stylesheet" type="text/css" />
         <link href="customdoxygen.css" rel="stylesheet" type="text/css"/>
         <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
         <link rel="stylesheet" href="bootstrap.min.css">
         <script src="bootstrap.min.js"></script>
         <script type="text/javascript" src="doxy-boot.js"></script>
@@ -29,7 +30,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <a href="#" class="navbar-left"><img src="dji_logo_gray_small.png" alt="DJI OSDK API Documentation" width="32px"/></a>
-                    <a class="navbar-brand" href="index.html">ONBOARD SDK 3.3 </a>
+                    <a class="navbar-brand" href="index.html">ONBOARD SDK 3.3</a>
                 </div>
             </div>
         </nav>
@@ -114,9 +115,11 @@ Static Public Attributes</h2></td></tr>
 <tr class="memitem:a6d79b3b8aaf0387f2bad4271ce89efc2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6d79b3b8aaf0387f2bad4271ce89efc2"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVALID_DATA</b> = 0xE0</td></tr>
 <tr class="separator:a6d79b3b8aaf0387f2bad4271ce89efc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5776bca220884f4a6858b9af582ab82"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVALID_POINT_DATA</b></td></tr>
+<tr class="memitem:aa5776bca220884f4a6858b9af582ab82"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aa5776bca220884f4a6858b9af582ab82"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVALID_POINT_DATA</b> = 0xE1</td></tr>
 <tr class="separator:aa5776bca220884f4a6858b9af582ab82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6af2cde407cdd33db8bac1f910dc7e5d"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>DISTANCE_OVERFLOW</b></td></tr>
+<tr class="memitem:a6af2cde407cdd33db8bac1f910dc7e5d"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6af2cde407cdd33db8bac1f910dc7e5d"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>DISTANCE_OVERFLOW</b> = 0xE2</td></tr>
 <tr class="separator:a6af2cde407cdd33db8bac1f910dc7e5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a08d581595aced5412155527465ef9a72"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a08d581595aced5412155527465ef9a72"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>TIMEOUT</b> = 0xE3</td></tr>
@@ -124,7 +127,8 @@ static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>TIMEO
 <tr class="memitem:a29929b55968dc55c1d8821ca534f4f87"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a29929b55968dc55c1d8821ca534f4f87"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINT_OVERFLOW</b> = 0xE4</td></tr>
 <tr class="separator:a29929b55968dc55c1d8821ca534f4f87"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99526e2318a43780cbf46cf370c5ae87"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINTS_TOO_CLOSE</b></td></tr>
+<tr class="memitem:a99526e2318a43780cbf46cf370c5ae87"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a99526e2318a43780cbf46cf370c5ae87"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINTS_TOO_CLOSE</b> = 0xE5</td></tr>
 <tr class="separator:a99526e2318a43780cbf46cf370c5ae87"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67b5ddcfc15d3a342800bbc85c3cc3a9"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a67b5ddcfc15d3a342800bbc85c3cc3a9"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINTS_TOO_FAR</b> = 0xE6</td></tr>
@@ -138,162 +142,25 @@ static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVAL
 <tr class="memitem:a73075a7283986aa535418d35e51a0a14"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a73075a7283986aa535418d35e51a0a14"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINT_DATA_NOT_ENOUGH</b> = 0xE9</td></tr>
 <tr class="separator:a73075a7283986aa535418d35e51a0a14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60b4ddc2b398508eb5678a7d78ae0db6"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>DATA_NOT_ENOUGH</b></td></tr>
+<tr class="memitem:a60b4ddc2b398508eb5678a7d78ae0db6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a60b4ddc2b398508eb5678a7d78ae0db6"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>DATA_NOT_ENOUGH</b> = 0xEA</td></tr>
 <tr class="separator:a60b4ddc2b398508eb5678a7d78ae0db6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4538b60fbcc5ceaa3a019c50d511c16b"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINTS_NOT_ENOUGH</b></td></tr>
+<tr class="memitem:a4538b60fbcc5ceaa3a019c50d511c16b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4538b60fbcc5ceaa3a019c50d511c16b"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>POINTS_NOT_ENOUGH</b> = 0xEB</td></tr>
 <tr class="separator:a4538b60fbcc5ceaa3a019c50d511c16b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab61081bb52abcf3de8c47cddd805df5e"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab61081bb52abcf3de8c47cddd805df5e"></a>
 static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>IN_PROGRESS</b> = 0xEC</td></tr>
 <tr class="separator:ab61081bb52abcf3de8c47cddd805df5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42e3fa5607d4b247f61d4b43d36c3bf9"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>NOT_IN_PROGRESS</b></td></tr>
+<tr class="memitem:a42e3fa5607d4b247f61d4b43d36c3bf9"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a42e3fa5607d4b247f61d4b43d36c3bf9"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>NOT_IN_PROGRESS</b> = 0xED</td></tr>
 <tr class="separator:a42e3fa5607d4b247f61d4b43d36c3bf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab437d29ecb1109eea6135be24bfd6485"><td class="memItemLeft" align="right" valign="top">static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVALID_VELOCITY</b></td></tr>
+<tr class="memitem:ab437d29ecb1109eea6135be24bfd6485"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab437d29ecb1109eea6135be24bfd6485"></a>
+static const uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>INVALID_VELOCITY</b> = 0xEE</td></tr>
 <tr class="separator:ab437d29ecb1109eea6135be24bfd6485"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="structDJI_1_1OSDK_1_1ErrorCode_1_1MissionACK_1_1WayPoint.html" title="WayPoint Mission ACK Error Code. ">WayPoint</a> Mission <a class="el" href="classDJI_1_1OSDK_1_1ACK.html" title="Class for handling acknowledgements from the aircraft. ">ACK</a> Error Code. </p>
-</div><h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="a60b4ddc2b398508eb5678a7d78ae0db6"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::DATA_NOT_ENOUGH</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xEA</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="a6af2cde407cdd33db8bac1f910dc7e5d"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::DISTANCE_OVERFLOW</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xE2</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="aa5776bca220884f4a6858b9af582ab82"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::INVALID_POINT_DATA</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xE1</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="ab437d29ecb1109eea6135be24bfd6485"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::INVALID_VELOCITY</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xEE</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="a42e3fa5607d4b247f61d4b43d36c3bf9"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::NOT_IN_PROGRESS</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xED</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="a4538b60fbcc5ceaa3a019c50d511c16b"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::POINTS_NOT_ENOUGH</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xEB</div></div><!-- fragment -->
-</div>
-</div>
-<a class="anchor" id="a99526e2318a43780cbf46cf370c5ae87"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const uint8_t DJI::OSDK::ErrorCode::MissionACK::WayPoint::POINTS_TOO_CLOSE</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div><div class="line">  0xE5</div></div><!-- fragment -->
-</div>
-</div>
-<hr/>The documentation for this struct was generated from the following files:<ul>
+</div><hr/>The documentation for this struct was generated from the following files:<ul>
 <li>osdk-core/api/inc/<a class="el" href="dji__error_8hpp_source.html">dji_error.hpp</a></li>
 <li>osdk-core/api/src/<a class="el" href="dji__error_8cpp.html">dji_error.cpp</a></li>
 </ul>
